@@ -2,10 +2,10 @@
 a = "abhishek"
 b = "chaurasia"
 
-if a=="Abhishek":
+if a=="abhishek":
     print("1st ye wala sahi hai")
 
-if b=="Chaurasia":
+if b=="chaurasia":
     print("2nd ye bhi thik hai")
 
 else:
