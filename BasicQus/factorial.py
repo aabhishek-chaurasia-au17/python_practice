@@ -7,7 +7,7 @@
 # def myfactorial(a):
 #     return math.factorial(a)
 
-# num = 4 
+# num = 5 
 # print(myfactorial(num))
 
 # -----------------------------------------------------------------

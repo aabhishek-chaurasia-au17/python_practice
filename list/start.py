@@ -8,13 +8,13 @@
 
 fruits = ["orenge", "mango", "banana"]
 
-
+fruits.insert(3,"apple")
 
 fruits.append("kivi")
 fruits.append("cherry")
 fruits.append("greps")
 
-fruits.insert(3,"apple")
 
-fruits.pop()
+
+fruits.pop(0)
 print(fruits)
