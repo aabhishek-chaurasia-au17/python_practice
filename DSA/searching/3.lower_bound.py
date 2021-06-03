@@ -16,6 +16,6 @@ def lower_bound(A, target):
        
 
 A = [1,1,1,2,2,5,6,6,7]
-target = 2
+target = 8
 
 print(lower_bound(A, target))
