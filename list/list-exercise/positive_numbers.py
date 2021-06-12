@@ -13,6 +13,5 @@ def find_positive(a):
             print(i , end=" ")
 
 
-
 list1 = [12, -7, 5, 64, -14]
 find_positive(list1)
