@@ -18,4 +18,3 @@ if exist_count > 0:
 else:
     print("No, 15 does not exists in list")
 
-
