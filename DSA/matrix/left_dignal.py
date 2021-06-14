@@ -11,7 +11,7 @@ m = 3
 row = 0
 col = 0
 
-while row<n and col< m:
+while row < n and col < m:
     print(arry[row][col])
     row += 1
     col += 1
