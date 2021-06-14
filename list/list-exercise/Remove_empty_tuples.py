@@ -16,7 +16,7 @@ def Remove_tuples(tuples):
     for i in tuples:
         if i != ():
             # print(i, end=" ")
-            tuples2.append(tuples)
+            tuples2.append(i)
     return tuples2
             
 
