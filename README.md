@@ -11,5 +11,5 @@
 
 
 <div align="center">
-    <a href="#Python-modern-interview-code-challenges-by-topic"><img src="main/Assets/Python-Cheat-Sheet.pdf" alt="banner" /></a>
+    <a href="#Python-modern-interview-code-challenges-by-topic"><img src="Assets/Python-Cheat-Sheet.pdf" alt="banner" /></a>
 </div>
