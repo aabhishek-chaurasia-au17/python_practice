@@ -1,25 +1,23 @@
 
+fruit = [ "apple", "Banana", "kivi", "mango", "watermelon"] 
 
+trget = "mango"
 
-# fruit = [ "apple", "Banana", "kivi", "mango", "watermelon"] 
+def linear_search(fruit, target):
 
-# trget = "mango"
+    for i in fruit:
+        if i == target:
+            return True
 
-# def linear_search(fruit, target):
-
-#     for i in fruit:
-#         if i == target:
-#             return True
-
-#     return False        
+    return False        
 
 
 
-# fruit = [ "apple", "Banana", "kivi", "mango", "watermelon"] 
+fruit = [ "apple", "Banana", "kivi", "mango", "watermelon"] 
 
-# target = "mango"
+target = "mango"
 
-# print(linear_search(fruit, target))
+print(linear_search(fruit, target))
 
 
 
